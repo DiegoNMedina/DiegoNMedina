@@ -5,7 +5,7 @@ I am an information technology engineer with a specialty in computer systems, I 
 - 🔭 I’m currently working as freelancer
 - 🌱 I’m currently learning ReactJS and Node
 - 💬 Ask me about Web Development
-- 📫 How to reach me: contact@diegomedina.ml 
+- 📫 How to reach me: hello@diegomedina.ml 
 
 
 ## My Skills
