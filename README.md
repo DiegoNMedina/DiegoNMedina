@@ -1,20 +1,59 @@
-## Hi I'm Diego Medina 👋
+# _Welcome_  :computer:
+[![HitCount](https://komarev.com/ghpvc/?username=DiegoNMedina&label=Profile%20views&color=60dae2&style=flat)](https://github.com/DiegoNMedina)
 
 I am an information technology engineer with a specialty in computer systems, I am 22, I love technology and I am in love with web development, gamer in my free time.
 
-- 🔭 I’m currently working as freelancer
-- 🌱 I’m currently learning ReactJS and Node
-- 💬 Ask me about Web Development
-- 📫 How to reach me: hello@diegomedina.ml 
+
+## Skills :computer:
+![](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/PHP-787cb4?style=for-the-badge&logo=php&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/HTML-e54d26?style=for-the-badge&logo=html5&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/CSS-0170bf?style=for-the-badge&logo=css3&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/NodeJS-306E17?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0&)
+![](https://img.shields.io/badge/JavaScript-EFD948?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/SQL-be1431?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/MYSQL-e58e00?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/Laravel-ff291a?style=for-the-badge&logo=laravel&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/Codeigniter-ee4323?style=for-the-badge&logo=codeigniter&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/CSharp-963dad?style=for-the-badge&logo=csharp&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=22272E&labelColor=f0f0f0)
+
+## Stats
+
+![Digego Medina GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoNMedina&show_icons=true&theme=radical)
 
 
-## My Skills
-<img src="https://user-images.githubusercontent.com/73197491/122003850-3c386d80-cd79-11eb-9a35-fff9a2ffd197.png" width="90"> <img src="https://user-images.githubusercontent.com/73197491/122003007-18285c80-cd78-11eb-9f6d-5b0d6ae4a746.png" width="50"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="50"> <img src="https://user-images.githubusercontent.com/73197491/122003766-1dd27200-cd79-11eb-93ae-580871899d12.png" width="90"> <img src="https://user-images.githubusercontent.com/73197491/122004361-ec0ddb00-cd79-11eb-8f71-38c4617047a4.png" width="60">  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="50">    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="60">  <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="100">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/245px-WordPress_blue_logo.svg.png" width="70"> <img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2018/02/microsoft_sqlserver.png?width=1200&enable=upscale" width="100">  
+## _Focused on:_
+- :trophy: Web Design.
+- :closed_book: Learning new technologies.
+- :rocket: Making the web better.
+
+## Soft Skils 
+![](https://img.shields.io/badge/Problem%20solving-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Teamwork-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Communication%20skills-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/stress%20resistance-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Emotional%20intelligence-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/creativity-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Time%20management%20and%20organization-2D333B?style=for-the-badge)
+
+## _Languages_
+- :es: Spanish (_Native_)
+- :us: English (_Technical_)
 
 
 
-## My Web
-[diegomedina.ml](https://diegomedina.ml)
+## My web
+- :globe_with_meridians: <a href="https://diego-medina.com">diego-medina.com</a> 
+
+
+
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-medina-9aa79920b/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/diegonmedina) [![Twitter](https://img.shields.io/badge/thathuydiegom-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thatguydiegom) 
+
+
 
 
 
