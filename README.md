@@ -1,7 +1,13 @@
 # _Welcome_  :computer:
 [![HitCount](https://komarev.com/ghpvc/?username=DiegoNMedina&label=Profile%20views&color=60dae2&style=flat)](https://github.com/DiegoNMedina)
 
-I am an information technology engineer with a specialty in computer systems, I am 22, I love technology and I am in love with web development, gamer in my free time.
+Hi there! I'm Diego Medina, an Information and Communication Technologies engineer and full-stack developer with over 2 years of experience in web application development. I specialize in web technologies like PHP, MySQL, HTML, CSS, and JavaScript, and I have worked on projects from start to finish, from planning to implementation.
+
+I love technology and I'm always looking for new ways to learn and improve my skills. In my free time, I enjoy experimenting with new technologies and developing projects that challenge my creativity and ingenuity.
+
+Apart from my passion for technology, I enjoy playing video games and playing music. I love exploring the city and discovering new places with friends.
+
+My motto could be "Innovating solutions through technology". I'm excited to keep growing as a developer and take on new challenges in the future. If you want to learn more about my work, you can visit my Github profile or my personal website.
 
 
 ## Skills :computer:
