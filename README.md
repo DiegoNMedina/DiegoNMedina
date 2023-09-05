@@ -31,6 +31,7 @@ My motto could be "Innovating solutions through technology". I'm excited to keep
 
 ## _Focused on:_
 - :trophy: Web Design.
+- :trophy: Web Development.
 - :closed_book: Learning new technologies.
 - :rocket: Making the web better.
 
