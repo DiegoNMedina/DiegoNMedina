@@ -51,7 +51,7 @@ My motto could be "Innovating solutions through technology". I'm excited to keep
 
 
 ## My web
-- :globe_with_meridians: <a href="https://diego-medina.com">diego-medina.com</a> 
+- :globe_with_meridians: <a href="https://diegonmedina.dev">diegonmedina.dev</a> 
 
 
 
