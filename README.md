@@ -11,19 +11,21 @@ My motto could be "Innovating solutions through technology". I'm excited to keep
 
 
 ## Skills :computer:
-![](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/PHP-787cb4?style=for-the-badge&logo=php&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/HTML-e54d26?style=for-the-badge&logo=html5&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/CSS-0170bf?style=for-the-badge&logo=css3&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/NodeJS-306E17?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0&)
-![](https://img.shields.io/badge/JavaScript-EFD948?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0&)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)
 ![](https://img.shields.io/badge/SQL-be1431?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/MYSQL-e58e00?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/Laravel-ff291a?style=for-the-badge&logo=laravel&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/Codeigniter-ee4323?style=for-the-badge&logo=codeigniter&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/CSharp-963dad?style=for-the-badge&logo=csharp&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/Codeigniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=csharp&logoColor=22272E&labelColor=f0f0f0)
 ![](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=22272E&labelColor=f0f0f0)
-
+![](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=22272E&labelColor=f0f0f0)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)
 ## Stats
 
 ![Digego Medina GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoNMedina&show_icons=true&theme=radical)
