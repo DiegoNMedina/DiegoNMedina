@@ -1,69 +1,100 @@
-# _Welcome_  :computer:
-[![HitCount](https://komarev.com/ghpvc/?username=DiegoNMedina&label=Profile%20views&color=60dae2&style=flat)](https://github.com/DiegoNMedina)
+<h1 align="center">Welcome 💻</h1>
 
-Hi there! I'm Diego Medina, an Information and Communication Technologies engineer and full-stack developer with over 2 years of experience in web application development. I specialize in web technologies like PHP, MySQL, HTML, CSS, and JavaScript, and I have worked on projects from start to finish, from planning to implementation.
+###
 
-I love technology and I'm always looking for new ways to learn and improve my skills. In my free time, I enjoy experimenting with new technologies and developing projects that challenge my creativity and ingenuity.
+<div align="center">
+  <img height="200" src="https://diegonmedina.dev/wp-content/uploads/2023/05/me.png"  />
+</div>
 
-Apart from my passion for technology, I enjoy playing video games and playing music. I love exploring the city and discovering new places with friends.
+###
 
-My motto could be "Innovating solutions through technology". I'm excited to keep growing as a developer and take on new challenges in the future. If you want to learn more about my work, you can visit my Github profile or my personal website.
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DiegoNMedina/count.svg?"  />
+</div>
 
+###
 
-## Skills :computer:
-![](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0&)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/SQL-be1431?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/Codeigniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=csharp&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=22272E&labelColor=f0f0f0)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)
-## Stats
+<p align="center">Hi there! I'm Diego Medina, an Information and Communication Technologies engineer and full-stack developer with over 3 years of experience in web application development. I specialize in web technologies like PHP, MySQL, HTML, CSS, and JavaScript, and I have worked on projects from start to finish, from planning to implementation.<br><br>I love technology and I'm always looking for new ways to learn and improve my skills. In my free time, I enjoy experimenting with new technologies and developing projects that challenge my creativity and ingenuity.<br><br>Apart from my passion for technology, I enjoy playing video games and playing music. I love exploring the city and discovering new places with friends.<br><br>My motto could be "Innovating solutions through technology". I'm excited to keep growing as a developer and take on new challenges in the future. If you want to learn more about my work, you can visit my Github profile or my personal website.</p>
 
-![Digego Medina GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoNMedina&show_icons=true&theme=radical)
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
-## _Focused on:_
-- :trophy: Web Design.
-- :trophy: Web Development.
-- :closed_book: Learning new technologies.
-- :rocket: Making the web better.
+###
 
-## Soft Skils 
-![](https://img.shields.io/badge/Problem%20solving-2D333B?style=for-the-badge)
-![](https://img.shields.io/badge/Teamwork-2D333B?style=for-the-badge)
-![](https://img.shields.io/badge/Communication%20skills-2D333B?style=for-the-badge)
-![](https://img.shields.io/badge/stress%20resistance-2D333B?style=for-the-badge)
-![](https://img.shields.io/badge/Emotional%20intelligence-2D333B?style=for-the-badge)
-![](https://img.shields.io/badge/creativity-2D333B?style=for-the-badge)
-![](https://img.shields.io/badge/Time%20management%20and%20organization-2D333B?style=for-the-badge)
+<img src="https://raw.githubusercontent.com/DiegoNMedina/DiegoNMedina/output/snake.svg" alt="Snake animation" />
 
-## _Languages_
-- :es: Spanish (_Native_)
-- :us: English (_Technical_)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoNMedina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DiegoNMedina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=DiegoNMedina&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoNMedina&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
 
-## My web
-- :globe_with_meridians: <a href="https://diegonmedina.dev">diegonmedina.dev</a> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/diego-medina-9aa79920b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/thatguydiegom" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/thatguydiegom/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/diegonmedina99" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://paypal.me/DiegoMedina88?country.x=MX&locale.x=es_XC" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  </a>
+  <a href="https://www.twitch.tv/elmaaaik88" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+  <a href="https://dev.to/diegonmedina" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
+</div>
 
-
-
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-medina-9aa79920b/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/diegonmedina) [![Twitter](https://img.shields.io/badge/thathuydiegom-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thatguydiegom) 
-
-
-
-
-
-
+###
