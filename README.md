@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://diegonmedina.dev/wp-content/uploads/2023/05/me.png"  />
+  <img height="200" src="https://diegonmedina.dev/wp-content/uploads/2024/08/DALL%C2%B7E-2024-08-06-22.22.26-Create-a-cartoon-style-illustration-of-the-young-man-depicted-in-the-provided-image-sitting-at-a-desk-with-a-three-monitor-setup-programming.-The-cha.webp"  />
 </div>
 
 ###
@@ -59,8 +59,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/DiegoNMedina/DiegoNMedina/output/snake.svg" alt="Snake animation" />
 
 ###
 
