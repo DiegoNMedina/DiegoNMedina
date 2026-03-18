@@ -1,5 +1,5 @@
 <h1 align="center">Diego Medina</h1>
-<h3 align="center">Senior Full-Stack Engineer • Systems Architect • Problem Solver</h3>
+<h3 align="center">Full-Stack Engineer • Systems Architect • Problem Solver</h3>
 
 <div align="center">
   <img height="200" src="https://diegonmedina.dev/wp-content/uploads/2024/08/DALL%C2%B7E-2024-08-06-22.22.26-Create-a-cartoon-style-illustration-of-the-young-man-depicted-in-the-provided-image-sitting-at-a-desk-with-a-three-monitor-setup-programming.-The-cha.webp"/>
